@@ -6,7 +6,6 @@ I'm a passionate first-year Computer Science & Engineering student at [IIIT Guwa
 
 - **Tech Enthusiast:** From C, C++, and Python to Java, I enjoy exploring various programming languages and technologies.
 - **Lifelong Learner:** I’m all about building projects that make a real impact, learning industry best practices, and growing every day.
-- **Humble Brag:** While I like to think I’m pretty good at what I do, I never miss an opportunity to learn something new...
 
 ## 💡 Skills
 
