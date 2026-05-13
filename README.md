@@ -9,7 +9,4 @@ I'm **Meet Mehta** — a CS sophomore at IIIT Guwahati who spends most of his ti
 
 ## 📫 Reach Me
 
-* GitHub: github.com/SuperCoolPencil
-* X: x.com/supercoolpen
-* LinkedIn: linkedin.com/in/meet-m-mehta
-* Email: [supercoolpencil@duck.com](mailto:supercoolpencil@duck.com)
+[GitHub](github.com/SuperCoolPencil) | [X](x.com/supercoolpen) | [LinkedIn](https://linkedin.com/in/meet-m-mehta) | [supercoolpencil@duck.com](mailto:supercoolpencil@duck.com)
